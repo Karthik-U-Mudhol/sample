@@ -1,4 +1,4 @@
 # sample
 To know about the repository
 <br>
-Author- Karthik Mudhol
+Author- Karthik Mudhol (AIML)
